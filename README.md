@@ -35,5 +35,5 @@ An online adaptation of the popular board game **Castle Panic!**, a fully cooper
 5) Start server `npm start`
 6) Open localhost:9000
 
-### Made by:
+### Contributors:
 - Austin Liu
