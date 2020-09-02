@@ -17,10 +17,10 @@ An online adaptation of the popular board game **Castle Panic!**, a fully cooper
 - React
 - Redux
 - Firebase
-- MongoDb/Mongoose
+- MongoDb/Mongoose (db cluster)
 - Node.js
-- Heroku (For Backend Server)
-- AWS (For Frontend Hosting)
+- Heroku (api deployment)
+- AWS (frontend static assets)
 - Express
 - Socket.io
 - Scss
