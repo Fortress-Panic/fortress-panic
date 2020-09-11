@@ -16,7 +16,7 @@ An online adaptation of the popular board game **Castle Panic!**, a fully cooper
 
 - React
 - Redux
-- Firebase
+- Firebase (user authentication)
 - MongoDb/Mongoose (db cluster)
 - Node.js
 - Heroku (api deployment)
