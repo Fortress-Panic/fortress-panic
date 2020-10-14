@@ -22,7 +22,7 @@ An online adaptation of the popular board game **Castle Panic!**, a fully cooper
 - Heroku (api deployment)
 - AWS (frontend static assets)
 - Express
-- Socket.io
+- Socket.io (Websocket api)
 - Scss
 - Webpack
 - Babel
