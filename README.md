@@ -33,7 +33,7 @@ An online adaptation of the popular board game **Castle Panic!**, a fully cooper
 3) Install dependencies with `npm install`
 4) Start development build using Webpack with `npm run dev`
 5) Start server `npm start`
-6) Open localhost:9000
+6) Open client on localhost:9000
 
 ### Contributors:
 - Austin Liu
