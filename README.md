@@ -28,7 +28,7 @@ An online adaptation of the popular board game **Castle Panic!**, a fully cooper
 - Babel
 
 ## How to run locally
-1) Clone this repository.
+1) Clone repository `git clone https://github.com/liu-austin/Fortress-Panic.git`.
 2) Go to api folder `cd api`
 3) Install dependencies with `npm install`
 4) Start development build using Webpack with `npm run dev`
