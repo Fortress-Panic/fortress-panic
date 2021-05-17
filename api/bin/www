@@ -82,7 +82,7 @@ io.on("connection", (socket) => {
     setTimeout(function() {
       let inRoomPlayers = {};
       for (let i in players) {
-        if (players[i].room === obj[1]) {
+        if (players && i && (players[i].room === obj[1])) {
           inRoomPlayers[i] = players[i];
         }
       }
